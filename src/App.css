@@ -1,0 +1,23 @@
+.App{
+  text-align: center;
+  color: rgb(5, 43, 7);
+  height: 100%;
+}
+
+.heading {
+  margin-top: 25vh;
+  font-family: cursive;
+  font-size: 60px;
+}
+
+h3 {
+  font-family: cursive;
+}
+
+.form {
+  width: 200px;
+}
+
+.bg-dark{
+  background: linear-gradient(90deg, rgba(2,2,10,1) 10%, rgba(6,52,75,1) 100%, rgba(14,11,54,0.6727065826330532) 100%);
+}

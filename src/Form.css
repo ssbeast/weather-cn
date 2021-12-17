@@ -1,0 +1,13 @@
+.button {
+    margin-left: 20px;
+    width: 10vh;
+    background-color: black;
+    color: white;
+}
+
+.container {
+    margin-top: 80px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
